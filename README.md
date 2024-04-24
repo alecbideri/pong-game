@@ -11,7 +11,7 @@ Welcome to the Pong Game repository! This project is a simple implementation of 
 - [Usage](#usage)
 - [Controls](#controls)
 - [Contributing](#contributing)
-- [License](#license)
+- [screenshots](#screenshots)
 
 ## Introduction
 
